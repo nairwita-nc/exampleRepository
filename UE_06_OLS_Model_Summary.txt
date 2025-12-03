@@ -1,0 +1,14 @@
+OLS Model Summary
+==================================================
+
+Coefficient: 0.955012
+Intercept: -0.002317
+
+Performance Metrics:
+MSE: 0.096492
+RMSE: 0.310632
+MAE: 0.252175
+R²: 0.904067
+
+Training samples: 8001
+Testing samples: 2001
